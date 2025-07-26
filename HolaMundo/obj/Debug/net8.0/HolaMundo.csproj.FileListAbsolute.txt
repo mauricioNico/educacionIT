@@ -1,0 +1,14 @@
+C:\IA_EducacionIT\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+C:\IA_EducacionIT\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+C:\IA_EducacionIT\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+C:\IA_EducacionIT\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+C:\IA_EducacionIT\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+C:\IA_EducacionIT\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll

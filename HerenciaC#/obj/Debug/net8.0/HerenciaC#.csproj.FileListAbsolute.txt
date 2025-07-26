@@ -1,0 +1,15 @@
+C:\IA_EducacionIT\HerenciaC#\bin\Debug\net8.0\HerenciaC#.exe
+C:\IA_EducacionIT\HerenciaC#\bin\Debug\net8.0\HerenciaC#.deps.json
+C:\IA_EducacionIT\HerenciaC#\bin\Debug\net8.0\HerenciaC#.runtimeconfig.json
+C:\IA_EducacionIT\HerenciaC#\bin\Debug\net8.0\HerenciaC#.dll
+C:\IA_EducacionIT\HerenciaC#\bin\Debug\net8.0\HerenciaC#.pdb
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.AssemblyInfoInputs.cache
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.AssemblyInfo.cs
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.csproj.CoreCompileInputs.cache
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.sourcelink.json
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.dll
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\refint\HerenciaC#.dll
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.pdb
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\HerenciaC#.genruntimeconfig.cache
+C:\IA_EducacionIT\HerenciaC#\obj\Debug\net8.0\ref\HerenciaC#.dll
