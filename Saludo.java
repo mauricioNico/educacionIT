@@ -16,7 +16,7 @@ public class Saludo {
             String nombre = scanner.nextLine();
 
             // Mostrar el saludo
-            System.out.println("¡Hola, " + nombre + "! ¡Un gusto saludarte!");
+            System.out.println("¡Hola, " + nombre + "! ¡Un gusto!");
 
         } catch (Exception e) {
             // Captura cualquier excepción y muestra un mensaje de error
