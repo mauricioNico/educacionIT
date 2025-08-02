@@ -1,0 +1,15 @@
+C:\IA_EducacionIT\LaboratorioModulo3\bin\Debug\net8.0\LaboratorioModulo3.exe
+C:\IA_EducacionIT\LaboratorioModulo3\bin\Debug\net8.0\LaboratorioModulo3.deps.json
+C:\IA_EducacionIT\LaboratorioModulo3\bin\Debug\net8.0\LaboratorioModulo3.runtimeconfig.json
+C:\IA_EducacionIT\LaboratorioModulo3\bin\Debug\net8.0\LaboratorioModulo3.dll
+C:\IA_EducacionIT\LaboratorioModulo3\bin\Debug\net8.0\LaboratorioModulo3.pdb
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.AssemblyInfoInputs.cache
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.AssemblyInfo.cs
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.csproj.CoreCompileInputs.cache
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.sourcelink.json
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.dll
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\refint\LaboratorioModulo3.dll
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.pdb
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\LaboratorioModulo3.genruntimeconfig.cache
+C:\IA_EducacionIT\LaboratorioModulo3\obj\Debug\net8.0\ref\LaboratorioModulo3.dll

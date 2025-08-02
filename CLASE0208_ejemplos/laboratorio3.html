@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Gestión de Cursos y Estudiantes</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h2 { color: rgb(179, 255, 0); }
+        ul { list-style: none; padding: 0; }
+        li { margin-bottom: 5px; }
+        .curso { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Gestión de Cursos y Estudiantes</h1>
+    <div id="contenido"></div>
+
+    <script>
+        // Clase Estudiante
+        class Estudiante {
+            constructor(nombre, edad, email) {
+                this.nombre = nombre;
+                this.edad = edad;
+                this.email = email;
+            }
+        }
+
+        // Clase Curso
+        class Curso {
+            constructor(nombre, codigoCurso) {
+                this.nombre = nombre;
+                this.codigoCurso = codigoCurso;
+                this.estudiantes = [];
+            }
+
+            inscribirEstudiante(estudiante) {
+                this.estudiantes.push(estudiante);
+                console.log(`Estudiante ${estudiante.nombre} inscrito al curso ${this.nombre}.`);
+            }
+
+            obtenerEstudiantes() {
+                return this.estudiantes;
+            }
+
+            mostrarEstudiantes() {
+                let listaHTML = `<h2>Curso: ${this.nombre}</h2><ul>`;
+                this.estudiantes.forEach(est => {
+                    listaHTML += `<li>${est.nombre} (${est.email})</li>`;
+                });
+                listaHTML += '</ul>';
+                return listaHTML;
+            }
+        }
+
+        // Crear estudiantes
+        const estudiante1 = new Estudiante("Mauricio Laurizi", 25, "mlaurizi922@gmail.com");
+        const estudiante2 = new Estudiante("Juan Pérez", 22, "jperez@gmail.com");
+
+        // Crear cursos
+        const cursoProgramacion = new Curso("Programación en JavaScript", "JS101");
+        const cursoMatematicas = new Curso("Matemáticas Avanzadas", "MAT202");
+
+        // Inscribir estudiantes en cursos
+        cursoProgramacion.inscribirEstudiante(estudiante1);
+        cursoProgramacion.inscribirEstudiante(estudiante2);
+        cursoMatematicas.inscribirEstudiante(estudiante2);
+
+        // Mostrar resultados en el navegador
+        const contenidoDiv = document.getElementById('contenido');
+        contenidoDiv.innerHTML = `
+            <div class="curso">${cursoProgramacion.mostrarEstudiantes()}</div>
+            <div class="curso">${cursoMatematicas.mostrarEstudiantes()}</div>
+        `;
+    </script>
+
+</body>
+</html>
