@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HolaMundo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e18ba0ec89e3a6e6b34bfc7cf5e6fbb2d6b9326")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea54c7bd55c56af87da85c22fb2add88ec22e35")]
 [assembly: System.Reflection.AssemblyProductAttribute("HolaMundo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HolaMundo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

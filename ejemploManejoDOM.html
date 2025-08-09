@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Captura de Información del DOM</title>
+</head>
+<body>
+    <h1 id="titulo">Capturando el título</h1>
+    <p id="descripcion">Capturando la descripción</p>
+    <button id="capturarBtn">Capturar Información</button>
+    <div id="resultado" style="background-color:cyan"></div>
+
+    <script>
+        // Obtener los elementos del DOM
+        const boton = document.getElementById('capturarBtn');
+        const resultado = document.getElementById('resultado');
+
+        // Función para capturar la información del DOM
+        function capturarInformacion() {
+            const titulo = document.getElementById('titulo').innerText; // Obtener el texto del <h1>
+            const descripcion = document.getElementById('descripcion').innerText; // Obtener el texto del <p>
+
+            // Mostrar la información en el div resultado
+            resultado.innerHTML = `
+                <p style='color:white'><strong>Título:</strong> ${titulo}</p>
+                <p><strong>Descripción:</strong> ${descripcion}</p>
+            `;
+        }
+
+        // Asignar la función al botón
+        boton.addEventListener('click', capturarInformacion);
+    </script>
+</body>
+</html>
